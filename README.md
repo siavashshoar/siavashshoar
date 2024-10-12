@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Siavash Shoar</h1>
-<h3 align="center">A Senior frontend developer from Iran</h3>
+<h2> Hi, I'm Siavash Shoar! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hwazZsamJlcTZiOXd1b3A4aHg5b3BkOHB2NzhxaTh4OWo1eXVpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.webp" width="50"></h2>
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThibzRjdnlrZWZldXBrM3dmMmJpaDR1cTd5bGd4dnE4dmw4eDZ6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.webp" width="230">
+<p><em>Frontend Developer at <a href="https://technopay.ir/">TechnoPay</a>
+</em></p>
 
-- 🔭 I’m currently working on [TechnoPay Co.](https://technopay.ir/)
+[![Linkedin: siavashshoar](https://img.shields.io/badge/-siavashshoar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siavashshoar/)](https://www.linkedin.com/in/siavash-shoar-619378241)
+[![GitHub siavashshoar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/siavashshoar)
 
-- 📫 How to reach me **siavashshoar2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/siavash-shoar-619378241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siavash-shoar-619378241" height="30" width="40" /></a>
-</p>
+### A little more about me...  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBpaHU4OGkxN2JqcTBtY3FvNW43b2J5dXpteTJoYmJ5YWUyc3ZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPXPyMVAssVrNMeuPf/giphy.webp" width="50"> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.zhuravkovigor.com/assets/next-js-optimizations.png" alt="nextjs" width="80" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/661dc153b706dbb6ca6be504/663b222726c7f9b37d3c6d05_react.png" alt="react" width="80" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrNVwxlBhUzwBd6H4YqdJckckasr4N6PjQw&s" alt="nodejs" width="60" height="60"/> </a>   </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:632/1*5QD8DKhOjRe-gcYjozlLNQ.png" alt="tailwind" width="60" height="60"/> </a> </p>
+```javascript
+const siavash = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, React, Next, Angular, Vue],
+  tools: [Redux, Tailwind, Storybook, Styled-Components, Jest, Cypress],
+  challenge: "I am doing the #100DaysOfCode challenge focused on next and typescript"
+}
+```
