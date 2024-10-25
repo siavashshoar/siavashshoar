@@ -24,6 +24,5 @@
 const siavash = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, React, Next, Angular, Vue],
-  tools: [Redux, Tailwind, Storybook, Styled-Components, Jest, Cypress],
-  challenge: "I am doing the #100DaysOfCode challenge focused on next and typescript"
+  tools: [Redux, Tailwind, Storybook, Styled-Components, Jest, Cypress]
 }
