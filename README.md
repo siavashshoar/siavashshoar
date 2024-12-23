@@ -23,6 +23,6 @@
 ```javascript
 const siavash = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, React, Next, Angular, Vue],
+  code: [Javascript, Typescript, React, Next, React Native, Angular, Vue],
   tools: [Redux, Tailwind, Storybook, Styled-Components, Jest, Cypress]
 }
